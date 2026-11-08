@@ -1,0 +1,6 @@
+{
+  "name": "TelcoX Q10 AI Analytics & Hybrid Processing Demo",
+  "description": "Interactive TelcoX case study AI demonstration featuring real-time vs. batch data visualization, live threshold screening, workbook verification checks, and a grounded AI analytics chatbot.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
